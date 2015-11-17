@@ -1,2 +1,2 @@
 # JMS
-Java Message Service Cookbook Code Source
+Java Message Service Cookbook
